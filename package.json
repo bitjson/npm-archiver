@@ -1,0 +1,13 @@
+{
+  "name": "npm-archiver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "cloudant-follow": "^0.18.1",
+    "fs-extra": "^7.0.1",
+    "got": "^9.6.0",
+    "normalize-registry-metadata": "^1.1.2",
+    "p-all": "^2.1.0"
+  }
+}
